@@ -6,3 +6,5 @@
 4. create new database called "endgamedentaliaclinic2" in XAMPP
 5. import database file "endgamedentaliaclinic2.sql" from downloaded file into "endgamedentaliaclinic2" database
 6. run the project
+
+P/S: refer to the closed issues for the code / file of the implemented change requests
